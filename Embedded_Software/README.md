@@ -1,0 +1,1 @@
+The embedded software is contained in this folder. We are utilizing a BLE 113 microcontroller programmed using the IAR IDE using high level language C because I don't mess with assembly when I don't have to.
